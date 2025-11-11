@@ -157,6 +157,10 @@ body {
   font-weight: bold;
 }
 
+a:hover {
+  cursor: pointer;
+}
+
 .wrap {
   max-width: 1110px;
   margin: 0 auto;
@@ -693,6 +697,11 @@ body {
 .shoppingCart {
   background-color: #f8f8f8;
   padding: 60px 0;
+}
+
+.shoppingCart-table,
+.discardBtn {
+  border: 2px solid red;
 }
 
 .shoppingCart-table,
