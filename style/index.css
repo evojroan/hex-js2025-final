@@ -700,11 +700,6 @@ a:hover {
 }
 
 .shoppingCart-table,
-.discardBtn {
-  border: 2px solid red;
-}
-
-.shoppingCart-table,
 .shoppingCart-sumTable {
   margin: 0 auto;
   border-collapse: collapse;
